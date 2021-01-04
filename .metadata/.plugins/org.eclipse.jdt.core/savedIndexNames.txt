@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\lucas_000\Desktop\study\workspace-project-online\semana-dev-superior-2\dsdelivery\.metadata\.plugins\org.eclipse.jdt.core
