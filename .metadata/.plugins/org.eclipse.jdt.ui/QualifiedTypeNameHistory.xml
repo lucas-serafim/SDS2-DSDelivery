@@ -35,14 +35,16 @@
     <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.repositories.ProductRepository"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.entities.Product"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.services.OrderService"/>
-    <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.dto.OrderDTO"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="java.net.URI"/>
     <fullyQualifiedTypeName name="org.springframework.web.servlet.support.ServletUriComponentsBuilder"/>
-    <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.entities.Order"/>
     <fullyQualifiedTypeName name="java.time.Instant"/>
-    <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.entities.enums.OrderStatus"/>
-    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
     <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.entities.Order"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsdelivery.dto.OrderDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
 </qualifiedTypeNameHistroy>
