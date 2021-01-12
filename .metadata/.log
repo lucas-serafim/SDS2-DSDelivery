@@ -4577,3 +4577,18 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:350)
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
 	at java.base/java.lang.Thread.run(Thread.java:834)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 13:09:40.430
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TnGouSgV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 13:09:40.528
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TnGouSgV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 13:09:40.532
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-11 13:09:40.537
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TnGouSgV => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-01-11 13:09:43.542
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
